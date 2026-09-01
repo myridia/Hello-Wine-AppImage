@@ -1,3 +1,4 @@
+<img src="Hello-Wine-AppImage.svg" alt="Hello-Wine-AppImage" width="120">
 # Hello-Wine-AppImage
 
 This project demonstrates how to package and run a Windows `.exe` program within a self-contained Linux AppImage. It leverages a portable Wine AppImage to provide the necessary Windows environment.
